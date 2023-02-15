@@ -1,16 +1,6 @@
 ### Hi there 👋
+Introduce my self, My Name is Luthfy Eka Permana, i'm programmer in south borneo and from in small island, we call the island is sea island. I migrated to the provincial capital and now you can find me in Pasar Kamis Village, see you again
 
-<!--
-**Luthfy/luthfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Freelance and Remote Programmer
-- 🌱 I’m currently learning Any Computer Science i like it, but i skilled in PHP
-- 👯 I’m looking to collaborate on Project and Product Manager
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything you want ask? email: luthfy.megumi@gmail.com
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i'm introvert
--->
+### My Technology Radar :
+https://radar.thoughtworks.com/?sheetId=https://docs.google.com/spreadsheets/d/1-d9dOKeix9XXI4JTg28wzqlx06HLa7zrf7TeXUb1Pas/edit#gid=0&sheetName=Luthfy's%20Radas
